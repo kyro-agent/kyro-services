@@ -1,0 +1,23 @@
+{
+  "name": "kyro-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyro-agent/kyro-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyro-agent/kyro-services/issues"
+  },
+  "homepage": "https://github.com/kyro-agent/kyro-services#readme",
+  "dependencies": {
+    "pinata": "^2.5.3"
+  }
+}
